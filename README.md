@@ -1,6 +1,6 @@
 > [!IMPORTANT]  
 > A lot of the codebase here no longer works due to Moralis closing down their backend servers.
-> We are building a new full-stack course on [Cyfrin Updraft](https://updraft.cyfrin.io/) this year, stay tuned! 
+> Pls contact me, stay tuned! 
 
 
 - [Full-Stack Setup](#full-stack-setup)
@@ -25,8 +25,8 @@
 In it's own terminal / command line, run: 
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-nft-marketplace-fcc
-cd hardhat-nextjs-nft-marketplace-fcc
+git clone https://github.com/winstar/nextjs-nft-marketplace-moralis.git
+cd nextjs-nft-marketplace-moralis
 yarn
 ```
 
@@ -201,8 +201,8 @@ And you'll have your front end, indexing service running, and blockchain running
 1. Clone the backend repo
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-nft-marketplace-fcc
-cd hardhat-nextjs-nft-marketplace-fcc
+git clone https://github.com/winstar/hardhat-nft-marketplace-fcc.git
+cd hardhat-nft-marketplace-fcc
 yarn
 yarn hardhat node
 ```
@@ -211,8 +211,8 @@ Leave that terminal running^
 2. Clone the frontend
 
 ```
-git clone https://github.com/PatrickAlphaC/nextjs-nft-marketplace-moralis-fcc
-cd nextjs-nft-marketplace-moralis-fcc
+git clone https://github.com/winstar/nextjs-nft-marketplace-moralis.git
+cd nextjs-nft-marketplace-moralis
 yarn
 ```
 
